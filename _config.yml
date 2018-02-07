@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 url: https://totaljj.github.io
+title: C
+
+plugins:
+  - jekyll-seo-tag
